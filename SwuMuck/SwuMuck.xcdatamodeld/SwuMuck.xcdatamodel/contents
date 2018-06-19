@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="OrderMenu" representedClassName="OrderMenu" syncable="YES" codeGenerationType="class">
+        <attribute name="orderid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ordermenuname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ordernumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="orderrequest" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ordershopname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ordertime" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="OrderMenu" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
